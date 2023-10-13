@@ -6,15 +6,16 @@ Neste curso adicionamos as funcionalidades à página do Fokus para poder adicio
 Conhecimentos utilizados neste projeto:
 
 - Criação de um CRUD
-- Inclusão de dados no LocalStorage
-- Busca de dados no LocalStorage
+- Inclusão de dados no LocalStorage com o setItem
+- Busca de dados no LocalStorage com o getItem
 - Uso do JSON.parse para converter a string do LocalStorage em objeto
+- Uso do JSON.stringify para converter um objeto em string para armazena-lo no Local Storage
 - Trabalhando com listas dinâmicas salvas no navegador
 - Inclusão de um ícone SVG através de Link externo
 - Criação de variáveis let com valor inicial null
 - Criação de várias funções a partir de const`s com arrow function
 - Uso do forEach para fazer seleções e modificações na lista salva no navegador
-- Adição e Remoção de classes com o classList
+- Adição (add), troca (toggle) e Remoção (remove) de classes com o classList
 - Uso da propriedade value para alterar o valor de elementos
 - Uso de arrow functions que recebem parâmetros
 - Uso do return para interromper funções
@@ -23,4 +24,13 @@ Conhecimentos utilizados neste projeto:
 - Uso do creatElement para inserir parágrafos, títulos, imagens e botões na página.
 - Uso do appendChild para fazer alterações nos elementos filhos de um determinado elemento
 - Uso do addEventListener para incluir ação ao evento de click a vários botões
-- 
+- Uso do setAttribute para alterar imagens
+- Uso do push para inserir elementos em uma lista
+- Uso do li.onclick () => {} para reconhecer que uma opção de uma lista foi clicada
+- Uso das propriedades/funções:
+    stopPropagation
+    preventDefault
+    indexOf
+    splice
+    filter ( => != )
+    remove
