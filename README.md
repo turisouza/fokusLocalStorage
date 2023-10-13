@@ -6,6 +6,7 @@ Neste curso adicionamos as funcionalidades à página do Fokus para poder adicio
 Conhecimentos utilizados neste projeto:
 
 - Criação de um CRUD
+- Manipulação de dados em formulários
 - Inclusão de dados no LocalStorage com o setItem
 - Busca de dados no LocalStorage com o getItem
 - Uso do JSON.parse para converter a string do LocalStorage em objeto
